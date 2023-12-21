@@ -1,4 +1,4 @@
-<h1>Exercício sobre Vetores</h1>
+<h1>Exercício sobre Matriz</h1>
 <p>Exercício disponibilizado no curso de Java Completo do Professor Nélio Alves. <br></p>
 
 <h3>Enunciado proposto no exercício</h3>
